@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tahamina Shathy. 
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning php-laravel.
